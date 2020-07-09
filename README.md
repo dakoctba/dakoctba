@@ -1,16 +1,25 @@
-### Hi there 👋
+### Jackson Teixeira 👋
 
 <!--
-**dakoctba/dakoctba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- :brazil: I'm brasilian and I live with my wife 💏 and two pugs :dog::dog:
+- :computer: I've been working with software development for almost 20 years
+- 🔭 I’m currently working on [Dextra Digital](https://dextra.com.br/)
+- 🌱 I’m currently learning [Golang](https://golang.org/) and [Kotlin](https://kotlinlang.org/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dakoctba)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Jackson Teixeira
+
+- 💻 Desenvolvedor de softwares
+- 🚜 Agro
+- 🐶 Pugs
+- 💏 Marido dedicado
+- ❤️ Família
+- ☕ Café
+- 🏍 Motocicletas
+- 🇧🇷 Curitiba / Brasil
