@@ -13,8 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 
-Jackson Teixeira
-
 - 💻 Desenvolvedor de softwares
 - 🚜 Agro
 - 🐶 Pugs
