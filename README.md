@@ -13,11 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 
-- 💻 Desenvolvedor de softwares
-- 🚜 Agro
-- 🐶 Pugs
-- 💏 Marido dedicado
-- ❤️ Família
-- ☕ Café
-- 🏍 Motocicletas
-- 🇧🇷 Curitiba / Brasil
+- 📌 Curitiba / Brazil
+- 💻 Solutions Architect / Elixir Alchemist
+- 📫 LinkedIn: [https://www.linkedin.com/in/dakoctba](https://www.linkedin.com/in/dakoctba)
