@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 
-📌 Curitiba / Brazil<br>💻 Solutions Architect / Elixir Alchemist<br>📫 LinkedIn: [https://www.linkedin.com/in/dakoctba](https://www.linkedin.com/in/dakoctba)
+💻 Solutions Architect / Elixir Alchemist<br>📫 LinkedIn: [https://www.linkedin.com/in/dakoctba](https://www.linkedin.com/in/dakoctba)<br>📌 Curitiba / Brazil
