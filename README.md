@@ -15,11 +15,11 @@
 
 💻 Solutions Architect | Elixir | Golang | Java<br>📫 LinkedIn: [https://www.linkedin.com/in/dakoctba](https://www.linkedin.com/in/dakoctba)<br>📌 Curitiba / Brazil
 
-***
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakoctba&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dakoctba&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
 
-<div>
-<a href="https://github.com/dakoctba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dakoctba&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakoctba&layout=compact&langs_count=6&theme=vue-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=dakoctba" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=dakoctba&langs_count=6" />
 </div>
