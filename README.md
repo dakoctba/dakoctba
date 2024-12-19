@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 
-💻 Solutions Architect | Elixir | Golang | Java<br>📫 LinkedIn: [https://www.linkedin.com/in/dakoctba](https://www.linkedin.com/in/dakoctba)<br>📌 Curitiba / Brazil
+💻 Solutions Architect | Java | Elixir | Golang<br>📫 LinkedIn: [https://www.linkedin.com/in/dakoctba](https://www.linkedin.com/in/dakoctba)<br>📌 Curitiba / Brazil
